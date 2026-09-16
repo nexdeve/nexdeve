@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:076AF4,100:6366f1&height=220&section=header&text=NeX%20DeVe&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20App%20%26%20Any%20Tools&descAlignY=58&descColor=c7d2fe&descSize=18" />
+<img src="https://nexdeve.com/logo.png" />
 
 <a href="https://nexdeve.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=076AF4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%26+App+%26+Any+Tools;Android+%7C+Flutter+%7C+Python+%7C+React;Building+fast%2C+secure+%26+beautiful+software;44%2B+Open+Source+Projects+on+GitHub" alt="Typing SVG" />
